@@ -5,5 +5,6 @@ import lombok.Data;
 @Data
 public class CustomObject {
 
-    static class InnerCustomObject { }
+    static class InnerCustomObject {
+    }
 }
